@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+  border-radius: 5px;
+  box-shadow: none;
+  border-color: transparent;
+  /*보더 칼라가 기본값이 뭐지?
+  처음엔 회색으로 떳었다.*/
+}
+
+body {
+  margin: 0;
+  background-color: #1BBC9B;
+}
+/*가장 먼저 로그인 폼부터 잡고 가기*/
+.login-form {
+  /*페이지 전체의 중앙에 두고 싶다면?*/
+  background-color: #EEEFF1;
+  width: 300px;
+  padding: 20px;
+  margin: 50px auto 50px auto;
+  /*이건 임의로(50px) 중앙에 둿을뿐*/
+
+}
+
+.text-field {
+  font-size: 14px;
+  margin-bottom: 10px;
+  width: 260px;
+  /*width: 100%해주면 꽉채워준다
+  부모 사이즈에 맞춰서.*/
+  /*border: none도 있더라.*/
+  padding: 10px;
+}
+
+.submit-btn {
+  font-size: 14px;
+  background-color: #1BBC9B;
+  margin-bottom: 30px;
+  width: 260px;
+  /*width를 이렇게 주는게 맞는지?*/
+  color: white;
+  padding: 10px;
+}
+
+.links {
+  text-align: center;
+
+}
+
+.links a {
+  font-size: 12px;
+  color: #9B9B9B;
+
+}

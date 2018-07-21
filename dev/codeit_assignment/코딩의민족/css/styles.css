@@ -1,0 +1,138 @@
+@font-face{
+  src: url(../fonts/BMJUA_otf.otf);
+  font-family: "Jua";
+}
+* {
+  box-sizing: border-box;
+  font-family: "Jua";
+  border-radius: 10px;
+  border: none;
+}
+
+body{
+  background-color: #F0E8D9
+}
+
+h1{
+  margin-top: 75px;
+  font-size: 64px;
+  color: #58595B;
+  display: inline-block;
+  width:100%;
+  vertical-align: middle;
+  text-align: center;
+
+}
+h2{
+  margin-top: 30px;
+  font-size: 32px;
+  color: #58595B;
+  display: inline-block;
+  width:100%;
+  vertical-align: middle;
+  text-align: center;
+
+}
+.menu{
+  margin-top: 75px;
+  display: inline-block;
+  width: 100%;
+  vertical-align: middle;
+  text-align:center;
+
+}
+
+.chicken{
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height:450px;
+  color: #58595B;
+  background-color: white;
+  background-image: url("../images/chicken.jpg");
+
+  background-size: 300px 200px;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+}
+
+
+.sushi{
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height:450px;
+  color: #58595B;
+  background-color: white;
+  background-image: url("../images/sushi.jpg");
+
+  background-size: 300px 200px;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+}
+
+.burger{
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height:450px;
+  color: #58595B;
+  background-color: white;
+  background-image: url("../images/burger.jpg");
+
+  background-size: 300px 200px;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+}
+
+.bibimbap{
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height:450px;
+  color: #58595B;
+  background-color: white;
+  background-image: url("../images/bibimbap.jpg");
+
+  background-size: 300px 200px;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+}
+
+h2 .menu-name{
+  display: block;
+  padding-top: 20px;
+}
+p{
+  margin-top:20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+.links{
+  display: inline-block;
+  width:100%;
+  vertical-align: middle;
+  text-align: center;
+}
+.links a{
+  color: #0000EE;
+  margin-top: 16px;
+  text-decoration: none;
+  padding-bottom: 20px;
+}
+
+
+
+

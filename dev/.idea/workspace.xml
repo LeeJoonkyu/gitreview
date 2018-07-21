@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df4bc0e6-2479-4a0d-88db-b4a4b8a992c7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dev$rock_function.coverage" NAME="rock_function Coverage Results" MODIFIED="1530687651516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock" />
+    <SUITE FILE_PATH="coverage/dev$11_12.coverage" NAME="11-12 Coverage Results" MODIFIED="1530779178378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$7_11.coverage" NAME="7-11 Coverage Results" MODIFIED="1530782983205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$5_11.coverage" NAME="5-11 Coverage Results" MODIFIED="1530783032283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$8_20.coverage" NAME="8-20 Coverage Results" MODIFIED="1530781812838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$user.coverage" NAME="user Coverage Results" MODIFIED="1530778212929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$rock.coverage" NAME="rock Coverage Results" MODIFIED="1530687646551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dev$8_18.coverage" NAME="8-18 Coverage Results" MODIFIED="1530780354473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$8_14.coverage" NAME="8-14 Coverage Results" MODIFIED="1530779603256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$waiting_list.coverage" NAME="waiting_list Coverage Results" MODIFIED="1530853869694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1" />
+    <SUITE FILE_PATH="coverage/dev$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1530859543645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2" />
+    <SUITE FILE_PATH="coverage/dev$4_12.coverage" NAME="4-12 Coverage Results" MODIFIED="1530783390139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$main.coverage" NAME="main Coverage Results" MODIFIED="1530853643352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1" />
+    <SUITE FILE_PATH="coverage/dev$2_16.coverage" NAME="2-16 Coverage Results" MODIFIED="1530783890395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$jun.coverage" NAME="jun Coverage Results" MODIFIED="1531925816376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dev$rock_class_version.coverage" NAME="rock_class_version Coverage Results" MODIFIED="1531925857647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rock" />
+    <SUITE FILE_PATH="coverage/dev$3_11.coverage" NAME="3-11 Coverage Results" MODIFIED="1530783699793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$codeit_lecture.coverage" NAME="codeit_lecture Coverage Results" MODIFIED="1530773960702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$5_17.coverage" NAME="5-17 Coverage Results" MODIFIED="1530783217231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+    <SUITE FILE_PATH="coverage/dev$11_8.coverage" NAME="11-8 Coverage Results" MODIFIED="1530779181512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hw_python" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5609349">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/코딩의민족/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="22" selection-start-line="22" selection-end-line="22" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/smf_festival/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/smf_festival/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-231">
+                  <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/login_page/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/login_page/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="145">
+                  <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/travel_site/index.html">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/codeit_assignment/코딩의민족/css/styles.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="468">
+                  <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cal.py" />
+        <option value="$PROJECT_DIR$/가위바위보.py" />
+        <option value="$PROJECT_DIR$/개차.py" />
+        <option value="$PROJECT_DIR$/rock.py" />
+        <option value="$PROJECT_DIR$/rock/rock.py" />
+        <option value="$PROJECT_DIR$/rock/rock_function.py" />
+        <option value="$PROJECT_DIR$/hw_python/user.py" />
+        <option value="$PROJECT_DIR$/hw_python/codeit_lecture.py" />
+        <option value="$PROJECT_DIR$/hw_python/11-12.py" />
+        <option value="$PROJECT_DIR$/hw_python/11-8.py" />
+        <option value="$PROJECT_DIR$/hw_python/8-14.py" />
+        <option value="$PROJECT_DIR$/jun.py" />
+        <option value="$PROJECT_DIR$/hw_python/8-18.py" />
+        <option value="$PROJECT_DIR$/hw_python/8-20.py" />
+        <option value="$PROJECT_DIR$/hw_python/7-11.py" />
+        <option value="$PROJECT_DIR$/hw_python/5-11.py" />
+        <option value="$PROJECT_DIR$/hw_python/5-17.py" />
+        <option value="$PROJECT_DIR$/hw_python/4-12.py" />
+        <option value="$PROJECT_DIR$/hw_python/3-11.py" />
+        <option value="$PROJECT_DIR$/hw_python/2-16.py" />
+        <option value="$PROJECT_DIR$/rock/rock_class_version.py" />
+        <option value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/main.py" />
+        <option value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/waiting_list.py" />
+        <option value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2/main.py" />
+        <option value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2/groupper.py" />
+        <option value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab3/groupper.py" />
+        <option value="$PROJECT_DIR$/livecoding_html/codeit_html.html" />
+        <option value="$PROJECT_DIR$/livecoding_html/codeit.html" />
+        <option value="$PROJECT_DIR$/livecoding_html/static/css/codeit.css" />
+        <option value="$PROJECT_DIR$/travel/css/styles.css" />
+        <option value="$PROJECT_DIR$/travel/index.html" />
+        <option value="$PROJECT_DIR$/travel/paris.html" />
+        <option value="$PROJECT_DIR$/travel/seoul.html" />
+        <option value="$PROJECT_DIR$/travel/tokyo.html" />
+        <option value="$PROJECT_DIR$/codeit_assignment/grandbudapest_hotel/index.html" />
+        <option value="$PROJECT_DIR$/codeit_assignment/grandbudapest_hotel/css/styles.css" />
+        <option value="$PROJECT_DIR$/codeit_assignment/login_page/index.html" />
+        <option value="$PROJECT_DIR$/codeit_assignment/login_page/css/styles.css" />
+        <option value="$PROJECT_DIR$/codeit_assignment/smf_festival/index.html" />
+        <option value="$PROJECT_DIR$/codeit_assignment/smf_festival/css/styles.css" />
+        <option value="$PROJECT_DIR$/codeit_assignment/코딩의민족/index.html" />
+        <option value="$PROJECT_DIR$/codeit_assignment/코딩의민족/css/styles.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="706" />
+    <option name="width" value="1224" />
+    <option name="height" value="1091" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="login_page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="login_page" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="smf_festival" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="smf_festival" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩의민족" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩의민족" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩의민족" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="codeit_assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="코딩의민족" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/untitled" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev" />
+      <recent name="C:\dev\livecoding_html\static" />
+      <recent name="C:\dev\livecoding_html\static\css" />
+      <recent name="C:\dev\rock" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.rock_class_version">
+    <configuration name="2-16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hw_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw_python/2-16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="jun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="rock_class_version" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rock/rock_class_version.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="waiting_list" type="PythonConfigurationType" factoryName="Python">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/waiting_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.waiting_list" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.2-16" />
+      <item itemvalue="Python.rock_class_version" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.jun" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rock_class_version" />
+        <item itemvalue="Python.jun" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.2-16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df4bc0e6-2479-4a0d-88db-b4a4b8a992c7" name="Default" comment="" />
+      <created>1530513408415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530513408415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23778501" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3298969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36612022" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39862543" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hw_python/3-11.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/2-16.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock_function.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock_class_version.py" />
+    <entry file="file://$PROJECT_DIR$/가위바위보.py" />
+    <entry file="file://$PROJECT_DIR$/개차.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/11-14.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/11-12.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/11-8.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/8-18.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/8-20.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/7-11.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/5-11.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/5-17.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/4-12.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/3-11.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/8-14.py" />
+    <entry file="file://$PROJECT_DIR$/hw_python/2-16.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock_function.py" />
+    <entry file="file://$PROJECT_DIR$/rock/rock.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/test.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/waiting_list.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab1/main.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab3/main.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2/groupper.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab2/main.py" />
+    <entry file="file://$PROJECT_DIR$/P.rogramming_python_lab1-master/lab3/groupper.py" />
+    <entry file="file://$PROJECT_DIR$/livecoding_html/static/css/codeit.css" />
+    <entry file="file://$PROJECT_DIR$/livecoding_html/codeit.html" />
+    <entry file="file://$PROJECT_DIR$/travel/paris.html" />
+    <entry file="file://$PROJECT_DIR$/travel/seoul.html" />
+    <entry file="file://$PROJECT_DIR$/travel/tokyo.html" />
+    <entry file="file://$PROJECT_DIR$/travel/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/travel/index.html" />
+    <entry file="file://$PROJECT_DIR$/jun.py" />
+    <entry file="file://$PROJECT_DIR$/cal.py" />
+    <entry file="file://$PROJECT_DIR$/firstdjango/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_travel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_travel/paris.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rock/rock_class_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/grandbudapest_hotel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/grandbudapest_hotel/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/travel_site/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/smf_festival/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/login_page/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/login_page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/smf_festival/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/코딩의민족/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeit_assignment/코딩의민족/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
